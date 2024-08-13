@@ -38,6 +38,7 @@ dependencies:
   url_launcher: ^6.3.0
   json_annotation: ^4.4.0
   social_media_buttons: ^1.0.0
+  http: any
 
 dev_dependencies:
   flutter_test:
